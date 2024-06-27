@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyBlogs</string>
+
+    <string name="hyperlink"><a href= "https://www.heleninwonderlust.co.uk/uganda-travel-guide/">See More...</a></string>
 </resources>
